@@ -39,7 +39,7 @@ body {
 .toggle {
   border: none;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   color: var(--brown);
   background-color: transparent;
 }
